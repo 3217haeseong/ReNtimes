@@ -1,0 +1,4 @@
+,CoolDown,Value,Section,Effect,Type,ApplyStat,CanUse
+JumpSlash,5,15,JumpSlash,P_Fire,Attack,None,TRUE
+CutDown,7,20,CutDown,P_GroundImpact,Attack,None,TRUE
+DamageBuff,30,7.5,DamageBuff,None,Buff,AttackDamage,TRUE
